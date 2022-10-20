@@ -4,7 +4,7 @@ Fertilizers Recommendation System For Disease Prediction
 TEAM LEADER - SOWNDARYA S
 TEAM MEMBER 1 - MONISHA S
 TEAM MEMBER 2 - SRIVARSHINI R
-REAM MEMBER 3 - SWAATHI S
+TEAM MEMBER 3 - SWAATHI S
 
 
 ![image](https://user-images.githubusercontent.com/113779706/196347305-f028cb13-e759-4ad9-ad2b-93c9d635f4ae.png)
